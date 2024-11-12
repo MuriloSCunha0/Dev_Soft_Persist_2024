@@ -1,0 +1,11 @@
+O arquivo arquivo_0.txt tem 5 palavras e 18 letras
+O arquivo arquivo_1.txt tem 5 palavras e 18 letras
+O arquivo arquivo_2.txt tem 5 palavras e 18 letras
+O arquivo arquivo_3.txt tem 5 palavras e 18 letras
+O arquivo arquivo_4.txt tem 5 palavras e 18 letras
+O arquivo arquivo_5.txt tem 5 palavras e 18 letras
+O arquivo arquivo_6.txt tem 5 palavras e 18 letras
+O arquivo arquivo_7.txt tem 5 palavras e 18 letras
+O arquivo arquivo_8.txt tem 5 palavras e 18 letras
+O arquivo arquivo_9.txt tem 5 palavras e 18 letras
+O arquivo arquivo_consolidado.txt tem 0 palavras e 0 letras
